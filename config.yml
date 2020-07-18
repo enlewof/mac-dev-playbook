@@ -5,6 +5,5 @@ configure_osx: no
 
 homebrew_installed_packages:
   - pre-commit
-  - wget
 
 homebrew_cask_apps: []
