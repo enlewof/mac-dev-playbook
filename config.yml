@@ -8,6 +8,7 @@ dotfiles_repo_accept_hostkey: yes
 dotfiles_repo_local_destination: ~/Documents/code/dotfiles
 dotfiles_files:
   - .bash_profile
+  - .vimrc
 
 homebrew_installed_packages:
   - bash-completion
