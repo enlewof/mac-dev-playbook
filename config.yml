@@ -10,6 +10,7 @@ dotfiles_files:
   - .bash_profile
 
 homebrew_installed_packages:
+  - bash-completion
   - bash-git-prompt
   - pre-commit
 
