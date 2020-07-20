@@ -4,6 +4,7 @@ configure_terminal: no
 configure_osx: no
 
 homebrew_installed_packages:
+  - bash-git-prompt
   - pre-commit
 
 homebrew_cask_apps: []
