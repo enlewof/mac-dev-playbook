@@ -9,6 +9,7 @@ dotfiles_repo_local_destination: ~/Documents/code/dotfiles
 dotfiles_files:
   - .aliases
   - .bash_profile
+  - .bashrc
   - .vimrc
 
 homebrew_installed_packages:
