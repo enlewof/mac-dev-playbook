@@ -19,4 +19,5 @@ homebrew_installed_packages:
   - wget
 
 homebrew_cask_apps:
+  - bitwarden
   - iterm2
