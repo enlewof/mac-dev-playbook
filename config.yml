@@ -1,7 +1,18 @@
-configure_dotfiles: no
-configure_sudoers: no
-configure_terminal: no
-configure_osx: no
+configure_dotfiles: true
+configure_sudoers: false
+configure_terminal: false
+configure_osx: false
+configure_dock: true
+dockitems_remove:
+  - Launchpad
+  - TV
+
+dotfiles_repo: https://github.com/enlewof/dotfiles.git
+dotfiles_repo_accept_hostkey: yes
+dotfiles_repo_local_destination: ~/Documents/code/dotfiles
+dotfiles_files:
+  - .aliases
+  - .vimrc
 
 homebrew_installed_packages:
   - pre-commit
