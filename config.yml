@@ -20,4 +20,5 @@ homebrew_installed_packages:
 
 homebrew_cask_apps:
   - bitwarden
+  - brave-browser
   - iterm2
