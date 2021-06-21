@@ -19,4 +19,5 @@ homebrew_installed_packages:
   - pass
   - pre-commit
 
-homebrew_cask_apps: []
+homebrew_cask_apps:
+  - bitwarden
