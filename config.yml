@@ -3,9 +3,35 @@ configure_sudoers: false
 configure_terminal: false
 configure_osx: false
 configure_dock: true
+
 dockitems_remove:
   - Launchpad
+  - Mail
+  - Safari
+  - Contacts
+  - Notes
+  - Reminders
+  - Maps
+  - Photos
+  - Messages
+  - FaceTime
+  - iTunes
+  - iBooks
+  - App Store
+  - "System Preferences"
+  - Calendar
   - TV
+  - Podcasts
+  - Music
+  - News
+
+dockitems_persist:
+  - name: Brave Browser
+    path: "/Applications/Brave Browser.app"
+    pos: 1
+  - name: Bitwarden
+    path: "/Applications/Bitwarden.app"
+    pos: 2
 
 dotfiles_repo: https://github.com/enlewof/dotfiles.git
 dotfiles_repo_accept_hostkey: yes
@@ -22,3 +48,4 @@ homebrew_cask_apps:
   - bitwarden
   - brave-browser
   - iterm2
+  - spotify
