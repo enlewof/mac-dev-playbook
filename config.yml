@@ -33,14 +33,17 @@ dockitems_persist:
     path: "/Applications/Bitwarden.app"
     pos: 2
 
-dotfiles_repo: https://github.com/enlewof/dotfiles.git
+dotfiles_repo: git@github.com:enlewof/dotfiles.git
 dotfiles_repo_accept_hostkey: yes
 dotfiles_repo_local_destination: ~/Documents/code/dotfiles
 dotfiles_files:
   - .aliases
+  - .p10k.zsh
   - .vimrc
+  - .zshrc
 
 homebrew_installed_packages:
+  - antigen
   - pre-commit
   - wget
 
