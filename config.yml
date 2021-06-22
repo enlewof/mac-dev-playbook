@@ -53,3 +53,7 @@ homebrew_cask_apps:
   - brave-browser
   - iterm2
   - spotify
+
+pip_packages:
+  - name: pynvim
+    executable: pip3
