@@ -38,6 +38,8 @@ dotfiles_repo_accept_hostkey: yes
 dotfiles_repo_local_destination: ~/Documents/code/dotfiles
 dotfiles_files:
   - .aliases
+  - .gitconfig
+  - .git-template/hooks/pre-commit
   - .p10k.zsh
   - .vim/autoload/plug.vim
   - .vimrc
