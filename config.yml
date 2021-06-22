@@ -39,6 +39,7 @@ dotfiles_repo_local_destination: ~/Documents/code/dotfiles
 dotfiles_files:
   - .aliases
   - .p10k.zsh
+  - .vim/autoload/plug.vim
   - .vimrc
   - .zshrc
 
