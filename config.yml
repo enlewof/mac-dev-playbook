@@ -55,6 +55,7 @@ homebrew_cask_apps:
   - brave-browser
   - iterm2
   - spotify
+  - vlc
 
 pip_packages:
   - name: pynvim
