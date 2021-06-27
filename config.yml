@@ -54,6 +54,7 @@ homebrew_cask_apps:
   - bitwarden
   - brave-browser
   - iterm2
+  - nordvpn
   - spotify
   - vlc
 
