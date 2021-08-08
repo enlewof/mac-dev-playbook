@@ -58,6 +58,7 @@ homebrew_cask_apps:
   - masscode
   - nordvpn
   - spotify
+  - the-unarchiver
   - vlc
 
 pip_packages:
