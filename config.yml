@@ -32,6 +32,9 @@ dockitems_persist:
   - name: Bitwarden
     path: "/Applications/Bitwarden.app"
     pos: 2
+  - name: massCode
+    path: "/Applications/massCode.app"
+    pos: 3
 
 dotfiles_repo: git@github.com:enlewof/dotfiles.git
 dotfiles_repo_accept_hostkey: yes
