@@ -35,6 +35,9 @@ dockitems_persist:
   - name: massCode
     path: "/Applications/massCode.app"
     pos: 3
+  - name: Spotify
+    path: "/Applications/Spotify.app"
+    pos: 4
 
 dotfiles_repo: git@github.com:enlewof/dotfiles.git
 dotfiles_repo_accept_hostkey: yes
