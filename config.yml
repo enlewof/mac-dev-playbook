@@ -59,6 +59,7 @@ homebrew_installed_packages:
 homebrew_cask_apps:
   - bitwarden
   - brave-browser
+  - gramps
   - iterm2
   - kodi
   - masscode
