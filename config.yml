@@ -60,6 +60,7 @@ homebrew_cask_apps:
   - bitwarden
   - brave-browser
   - google-chrome
+  - google-drive
   - gramps
   - iterm2
   - kodi
