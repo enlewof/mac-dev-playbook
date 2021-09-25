@@ -54,6 +54,7 @@ dotfiles_files:
 homebrew_installed_packages:
   - antigen
   - pre-commit
+  - syncthing
   - wget
 
 homebrew_cask_apps:
