@@ -60,6 +60,7 @@ homebrew_installed_packages:
 homebrew_cask_apps:
   - bitwarden
   - brave-browser
+  - discord
   - google-chrome
   - google-drive
   - gramps
