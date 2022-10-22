@@ -70,6 +70,7 @@ homebrew_cask_apps:
   - gramps
   - iterm2
   - kodi
+  - macfuse
   - masscode
   - moonlight
   - nordvpn
