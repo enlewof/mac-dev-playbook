@@ -76,6 +76,7 @@ homebrew_cask_apps:
   - moonlight
   - nordvpn
   - philips-hue-sync
+  - sonos
   - spotify
   - steam
   - synology-drive
