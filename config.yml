@@ -58,6 +58,7 @@ homebrew_taps:
 
 homebrew_installed_packages:
   - antigen
+  - pipx
   - pre-commit
   - rom-tools
   - syncthing
