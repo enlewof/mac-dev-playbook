@@ -54,7 +54,6 @@ dotfiles_files:
 homebrew_installed_packages:
   - antigen
   - pre-commit
-  - syncthing
   - wget
 
 homebrew_cask_apps:
@@ -62,7 +61,6 @@ homebrew_cask_apps:
   - brave-browser
   - discord
   - google-chrome
-  - google-drive
   - gramps
   - iterm2
   - kodi
