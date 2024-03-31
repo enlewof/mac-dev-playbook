@@ -2,7 +2,7 @@ configure_dotfiles: true
 configure_sudoers: false
 configure_terminal: false
 configure_osx: false
-configure_dock: false
+configure_dock: true
 
 dockitems_remove:
   - Launchpad
@@ -52,9 +52,14 @@ dotfiles_files:
   - .zshrc
 
 homebrew_installed_packages:
-  - antigen
+  - antidote
+  - chezmoi
+  - mise
+  - neovim
+  - pipx
   - pre-commit
   - wget
+  - zoxide
 
 homebrew_cask_apps:
   - bitwarden
@@ -67,6 +72,8 @@ homebrew_cask_apps:
   - masscode
   - moonlight
   - nordvpn
+  - philips-hue-sync
+  - signal
   - sonos
   - spotify
   - steam
@@ -74,9 +81,9 @@ homebrew_cask_apps:
   - the-unarchiver
   - vlc
 
-pip_packages:
-  - name: pynvim
-    executable: pip3
+#pip_packages:
+#  - name: pynvim
+#    executable: pip3
 
 pipx_packages:
   - name: nsz
