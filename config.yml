@@ -53,8 +53,10 @@ homebrew_installed_packages:
   - fzf
   - mise
   - neovim
+  - knqyf263/pet/pet
   - pipx
   - pre-commit
+  - lemoony/tap/snipkit
   - wget
   - zoxide
 
