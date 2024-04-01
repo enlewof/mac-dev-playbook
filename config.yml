@@ -48,7 +48,6 @@ dotfiles_files:
   - .p10k.zsh
   - .vim/autoload/plug.vim
   - .vimrc
-  - .zshrc
 
 homebrew_installed_packages:
   - antidote
