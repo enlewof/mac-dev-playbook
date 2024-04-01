@@ -53,6 +53,7 @@ homebrew_installed_packages:
   - antidote
   - bat
   - chezmoi
+  - fzf
   - mise
   - neovim
   - pipx
