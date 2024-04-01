@@ -85,3 +85,5 @@ homebrew_cask_apps:
 pipx_packages:
   - name: nsz
     executable: pipx
+  - name: libray
+    executable: pipx
