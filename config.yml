@@ -45,9 +45,6 @@ dotfiles_repo_local_destination: ~/Documents/code/dotfiles
 dotfiles_files:
   - .gitconfig
   - .git-template/hooks/pre-commit
-  - .p10k.zsh
-  - .vim/autoload/plug.vim
-  - .vimrc
 
 homebrew_installed_packages:
   - antidote
