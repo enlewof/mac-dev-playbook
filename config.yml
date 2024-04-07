@@ -51,6 +51,9 @@ homebrew_installed_packages:
   - bat
   - chezmoi
   - fzf
+  - git-delta
+  - lua-language-server
+  - luacheck
   - mise
   - neovim
   - knqyf263/pet/pet
