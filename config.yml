@@ -39,18 +39,12 @@ dockitems_persist:
     path: "/Applications/Spotify.app"
     pos: 4
 
-dotfiles_repo: git@github.com:enlewof/dotfiles.git
-dotfiles_repo_accept_hostkey: yes
-dotfiles_repo_local_destination: ~/Documents/code/dotfiles
-dotfiles_files:
-  - .gitconfig
-  - .git-template/hooks/pre-commit
-
 homebrew_installed_packages:
   - antidote
   - bat
   - chezmoi
   - fzf
+  - gh
   - git-delta
   - lua-language-server
   - luacheck
@@ -61,6 +55,7 @@ homebrew_installed_packages:
   - pre-commit
   - lemoony/tap/snipkit
   - wget
+  - yamllint
   - zoxide
 
 homebrew_cask_apps:
