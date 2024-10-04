@@ -51,6 +51,7 @@ homebrew_installed_packages:
   - mise
   - neovim
   - knqyf263/pet/pet
+  - p7zip
   - pipx
   - pre-commit
   - lemoony/tap/snipkit
